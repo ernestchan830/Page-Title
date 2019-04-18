@@ -1,0 +1,19 @@
+body{
+ background-color: grey;   
+    
+}
+h1{
+ color:fuchsia;   
+ font-family: 'Inconsolata', monospace;
+ }
+
+li{
+ color: purple;   
+}
+
+p{
+color: violet;
+font-size:30px;
+}
+
+
